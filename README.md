@@ -1,5 +1,5 @@
 
-# Hi there👋, I'm Abhishek S P (@Abhi-37) 
+# Hi there👋, I'm Abhishek (@Abhi-37) 
 
 ## About Me
 I am a passionate Analytics professional with a strong background in business analysis and project management. With experience in diverse industries including manufacturing, healthcare, and consulting, I bring a unique perspective to problem-solving and process optimization.
