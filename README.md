@@ -5,7 +5,7 @@
 </h1>
 
 <h1 align="center">
-  I'm **Abhishek** (@Abhi-37)
+  I'm Abhishek (@Abhi-37)
 </h1>
 
 ## About Me
