@@ -1,8 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Abhi-37.Abhi-37" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abhishek+(@Abhi-37)!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;" />
 </h1>
+
+#I'm Abhishek (@Abhi-37)
 
 ## About Me
 I am a passionate Analytics professional with a strong background in business analysis and project management. With experience in diverse industries including manufacturing, healthcare, and consulting, I bring a unique perspective to problem-solving and process optimization.
