@@ -8,7 +8,7 @@
   I'm Abhishek (@Abhi-37)
 </h1>
 
-## About Me:sparkling_heart:
+## About Me :sparkling_heart:
 I am a passionate Analytics professional with a strong background in business analysis and project management. With experience in diverse industries including manufacturing, healthcare, and consulting, I bring a unique perspective to problem-solving and process optimization.
 
 ## Interests👀
