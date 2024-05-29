@@ -11,12 +11,12 @@
 ## About Me :sparkling_heart:
 I am a passionate Analytics professional with a strong background in business analysis and project management. With experience in diverse industries including manufacturing, healthcare, and consulting, I bring a unique perspective to problem-solving and process optimization.
 
-<details>
-## Interests👀
+
+**<## Interests👀>**
 - **Business Analysis & Process Optimization**: I love diving into business processes to identify pain points and opportunities for improvement.
 - **ERP Systems**: Customizing and implementing ERP modules to meet business needs.
 - **Data Analytics**: Utilizing tools like Tableau and Power BI to derive insights and support decision-making.
-</details>
+</Interests>
 
 ## Currently Learning🌱
 - Advanced techniques in business analysis and requirements gathering.
