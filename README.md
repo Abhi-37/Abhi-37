@@ -3,7 +3,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Abhi-37.Abhi-37" />
 <p align="left"> 
   <a href="https://www.linkedin.com/in/abhishek37sp/" target="blank">
-    <img src="https://img.shields.io/linkedin/follow/abhishek?logo=twitter&style=for-the-badge" alt="Abhishek" />
+    <img src="https://img.shields.io/linkedin/follow/abhishek?logo=linkedin&style=for-the-badge" alt="Abhishek" />
   </a>
 </p>
 
