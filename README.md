@@ -83,8 +83,10 @@ Transforming chaos into clarity, I excel in business analysis, data transformati
 <img width="52%" src="https://github-readme-stats.vercel.app/api?username=Abhi-37&count_private=true&show_icons=true&hide_border=true" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-37&count_private=true&show_icons=true&hide_border=true" alt="abhi-37" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Abhi-37&hide_border=true&dates=478AF0&ring=478AF0&fire=DD2727&currStreakLabel=DD2727"/>  <br>
-	
+
+<h1 align="center">	
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+<h1/>
 
 <details>  
    <summary><b>Performance Metrics</b></summary><br>
