@@ -1,6 +1,11 @@
  [![Demo Video](https://firebasestorage.googleapis.com/v0/b/vid-file.appspot.com/o/IMG_0557.png?alt=media&token=dd81f77a-9f52-4231-84a4-4e9da3477aac)](https://firebasestorage.googleapis.com/v0/b/vid-file.appspot.com/o/Final%20Cut.mp4?alt=media&token=14e84a04-fff1-44d6-a5b7-b9efebdad346)
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Abhi-37.Abhi-37" />
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/abhishek37sp/" target="blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Abhishek LinkedIn" />
+  </a>
+</p>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;" />
@@ -83,7 +88,6 @@ Transforming chaos into clarity, I excel in business analysis, data transformati
 <img width="52%" src="https://github-readme-stats.vercel.app/api?username=Abhi-37&count_private=true&show_icons=true&hide_border=true" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-37&count_private=true&show_icons=true&hide_border=true" alt="abhi-37" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Abhi-37&hide_border=true&dates=478AF0&ring=478AF0&fire=DD2727&currStreakLabel=DD2727"/>  <br>
-
 <h3 align="left">	
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 <h3/>
