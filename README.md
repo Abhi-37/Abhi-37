@@ -18,8 +18,8 @@
 ## About Me 
 Transforming chaos into clarity, I excel in business analysis, data transformation, and stunning visualizations<img src="https://firebasestorage.googleapis.com/v0/b/vid-file.appspot.com/o/Developer.gif?alt=media&token=92371d87-0643-46ee-b89b-9f9e179de48d" width="30px">. A project management whiz, I turn complex needs into actionable tasks. Always learning and innovating.
 
-<details>	  
-  <summary><b>**Interests** :sparkling_heart:</b></summary><br>
+## <details>	  
+  <summary><b>Interests :sparkling_heart:</b></summary><br>
  
 - **Business Analysis & Process Optimization**: Turning chaos into streamlined workflows, one process at a time.
 - **Data Transformation**: Converting data from drab to fab, transforming bits into insights.
@@ -30,7 +30,7 @@ Transforming chaos into clarity, I excel in business analysis, data transformati
 </details>
 
 <details>	  
-  <summary><b>**Collaboration**🤝</b></summary><br>
+  <summary><b>Collaboration🤝</b></summary><br>
  
 - **Business process re-engineering and optimization**: Ready to re-engineer your business processes like a tech-savvy MacGyver.
 - **ERP system implementation and customization**: Bringing ERP dreams to life, one customization at a time.
