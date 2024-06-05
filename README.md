@@ -30,16 +30,7 @@ Transforming chaos into clarity, I excel in business analysis, data transformati
 </details>
 
 <details>	  
-  <summary><b>Currently Learning🌱</b></summary><br>
- 
-- **Advanced techniques in business analysis and requirements gathering**: Becoming a requirements whisperer, translating client dreams into reality.
-- **Mastering the art of turning vague client requirements into actionable tasks**: Decoding client-speak into actionable plans, like a project management Sherlock.
-- **Enhancing my skills in project management methodologies like Scrum and Kanban**: Juggling Scrum and Kanban like a project management circus.
-- **Exploring the latest trends and tools in data analytics and visualization**: Surfing the data wave with the latest analytics trends and tools.
-</details>
-
-<details>	  
-  <summary><b>Collaboration💞️</b></summary><br>
+  <summary><b>Collaboration🤝:</b></summary><br>
  
 - **Business process re-engineering and optimization**: Ready to re-engineer your business processes like a tech-savvy MacGyver.
 - **ERP system implementation and customization**: Bringing ERP dreams to life, one customization at a time.
