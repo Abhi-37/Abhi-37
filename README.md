@@ -29,10 +29,8 @@ Transforming chaos into clarity, I excel in business analysis, data transformati
 - **Reporting & Dashboard**: Creating dashboards so insightful, you’ll wonder how you ever lived without them.
 </details>
 
-<details>
-<h1 align="left">	  
-  <summary><b>Collaboration🤝:</b></summary><br>
-<h1/>
+<details>	  
+  <summary><b>Collaboration🤝</b></summary><br>
  
 - **Business process re-engineering and optimization**: Ready to re-engineer your business processes like a tech-savvy MacGyver.
 - **ERP system implementation and customization**: Bringing ERP dreams to life, one customization at a time.
