@@ -30,9 +30,9 @@ Transforming chaos into clarity, I excel in business analysis, data transformati
 </details>
 
 <details>
-<h2 align="left">	  
+<h1 align="left">	  
   <summary><b>Collaboration🤝:</b></summary><br>
-<h2/>
+<h1/>
  
 - **Business process re-engineering and optimization**: Ready to re-engineer your business processes like a tech-savvy MacGyver.
 - **ERP system implementation and customization**: Bringing ERP dreams to life, one customization at a time.
