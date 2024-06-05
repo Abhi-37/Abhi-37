@@ -30,7 +30,7 @@ Transforming chaos into clarity, I excel in business analysis, data transformati
 </details>
 
 <details>	  
-  <summary><b><i><span style="font-size: 1.5em;">Collaboration🤝</span></i></b>
+  <summary><b><i><span style="font-size: 2.5em;">Collaboration🤝</span></i></b>
 </summary><br>
  
 - **Business process re-engineering and optimization**: Ready to re-engineer your business processes like a tech-savvy MacGyver.
